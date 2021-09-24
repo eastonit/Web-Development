@@ -16,3 +16,21 @@ img {
 .broccoli {
   background-color: red;
 }
+
+.topcontainer {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+
+.middlecontainer {
+  background-color: green;
+  height: 200px;
+  width: 200px;
+}
+
+.bottoncontianer {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}

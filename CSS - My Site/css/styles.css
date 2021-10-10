@@ -8,12 +8,12 @@ h1 {
   font-size: 5.625em;
   font-family: 'Caveat', cursive;
   color: #66BFBF;
-  line-height: 2;
 }
 
 h2 {
   font-size: 2.5rem;
     color: #66BFBF;
+    font-weight: normal;
 }
 
 h3 {
@@ -31,7 +31,7 @@ p {
 .top-container {
   margin: 0;
   position: relative;
-  background-color: #e6fcf8;
+  background-color: #EAF6F6;
 }
 
 .middle-container {}
@@ -50,4 +50,41 @@ p {
 
 .web-developer {
   font-weight: normal;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-to-learn {
+  display: inline-block;
+  position: relative;
+  float: left;
+}
+
+.computer {
+  width: 10%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies {
+  width: 10%;
+  float: right;
+  margin-left: 30px;
+}
+
+.whoiam {
+  color: #40514E;
+}
+
+.line {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 7%;
+  border-color: #66bfbf;
 }
